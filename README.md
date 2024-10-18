@@ -6,7 +6,7 @@ I'm a passionate solo game developer with experience in a variety of game develo
 ## 🛠 Skills
 - **Languages**: C#
 - **Game Engines**: Unity (Standard, Editor Tool, Shader)
-- **Graphics**: OpenGL, Computer Graphics, Image Processing
+- **Graphics**: OpenGL, Computer Graphics, Image Processing,VFX
 - **Tools**: Unity Editor, Shader Programming
 
 ## 🎮 Games I've Developed
