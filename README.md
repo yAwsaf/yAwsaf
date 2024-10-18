@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm [Youssef Salah] 👋
 
-<!--
-**yAwsaf/yAwsaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a passionate solo game developer with experience in a variety of game development and computer graphics technologies. I love creating engaging and visually appealing games using my technical expertise and creativity.
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- **Languages**: C#
+- **Game Engines**: Unity (Standard, Editor Tool, Shader)
+- **Graphics**: OpenGL, Computer Graphics, Image Processing
+- **Tools**: Unity Editor, Shader Programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎮 Games I've Developed
+- **PC Games**: Check out my portfolio on [Itch.io](https://awsaf.itch.io/)
+- **Mobile Games**: Try my latest Android game on [Google Play](https://play.google.com/store/apps/details?id=com.DefaultCompany.CashMaster)
+
+## 🔗 Connect with Me
+- [GitHub](https://github.com/yAwsaf)
+- [ysalahdev@gmail.com](mailto:ysalahdev@gmail.com) 
