@@ -1,4 +1,4 @@
-# Hi, I'm [Youssef Salah] 👋
+# Hi, I'm Youssef Salah 👋
 
 ## 🚀 About Me
 I'm a passionate solo game developer with experience in a variety of game development and computer graphics technologies. I love creating engaging and visually appealing games using my technical expertise and creativity.
