@@ -14,5 +14,4 @@ I'm a passionate solo game developer with experience in a variety of game develo
 - **Mobile Games**: Try my latest Android game on [Google Play](https://play.google.com/store/apps/details?id=com.DefaultCompany.CashMaster)
 
 ## 🔗 Connect with Me
-- [GitHub](https://github.com/yAwsaf)
 - [ysalahdev@gmail.com](mailto:ysalahdev@gmail.com) 
