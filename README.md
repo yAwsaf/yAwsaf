@@ -16,4 +16,5 @@ I'm a passionate solo game developer with experience in a variety of game develo
 - **PC Games**: Check out my portfolio on [Itch.io](https://awsaf.itch.io/)
 
 ## 🔗 Connect with Me
-- [ysalahdev@gmail.com](mailto:ysalahdev@gmail.com) 
+- [Gmail](mailto:ysalahdev@gmail.com)
+- [Linkedin](mailto:www.linkedin.com/in/ysalahdev) 
