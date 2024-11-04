@@ -17,4 +17,4 @@ I'm a passionate solo game developer with experience in a variety of game develo
 
 ## 🔗 Connect with Me
 - [Gmail](mailto:ysalahdev@gmail.com)
-- [Linkedin](www.linkedin.com/in/ysalahdev) 
+- [Linkedin](https://www.linkedin.com/in/ysalahdev/)
