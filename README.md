@@ -8,6 +8,8 @@ I'm a passionate solo game developer with experience in a variety of game develo
 - **Game Engines**: Unity (Standard, Editor Tool, Shader)
 - **Graphics**: OpenGL, Computer Graphics, Image Processing,VFX
 - **Tools**: Unity Editor, Shader Programming
+- **MultiPlayer**: Using Photon
+- **AI**: GameAI
 
 ## 🎮 Games I've Developed
 - **PC Games**: Check out my portfolio on [Itch.io](https://awsaf.itch.io/)
