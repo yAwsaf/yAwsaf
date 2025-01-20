@@ -10,6 +10,7 @@ I'm a passionate solo game developer with experience in a variety of game develo
 - **Tools**: Unity Editor, Shader Programming
 - **MultiPlayer**: Using Photon
 - **AI**: GameAI
+- **3dModeling**: Blender
 - **BackEnd**: LINQ, .NETCore, SQL, UnityWeb
 
 ## 🎮 Games I've Developed
