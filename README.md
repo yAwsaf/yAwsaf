@@ -5,11 +5,12 @@ I'm a passionate solo game developer with experience in a variety of game develo
 
 ## 🛠 Skills
 - **Languages**: C#,C++
-- **Game Engines**: Unity (Standard, VR, Editor Tool, Shader)
+- **Game Engines**: Unity (Standard, Editor Tool, Shader)
 - **Graphics**: OpenGL, Computer Graphics, Image Processing,VFX
 - **Tools**: Unity Editor, Shader Programming
 - **MultiPlayer**: Using Photon
 - **AI**: GameAI
+- **XR**: VR
 - **3dModeling**: Blender
 - **BackEnd**: LINQ, .NETCore, SQL, UnityWeb
 
