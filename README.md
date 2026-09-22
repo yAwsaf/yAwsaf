@@ -4,7 +4,7 @@
 I'm a passionate solo game developer with experience in a variety of game development and computer graphics technologies. I love creating engaging and visually appealing games using my technical expertise and creativity.
 
 ## 🛠 Skills
-- **Languages**: C#,C++
+- **Languages**: C#,C++,python
 - **Game Engines**: Unity (Standard, Editor Tool, Shader)
 - **Graphics**: OpenGL, Computer Graphics, Image Processing,VFX
 - **Tools**: Unity Editor, Shader Programming
@@ -13,6 +13,7 @@ I'm a passionate solo game developer with experience in a variety of game develo
 - **XR**: VR
 - **3dModeling**: Blender
 - **BackEnd**: LINQ, .NETCore, SQL, UnityWeb
+- **AI**:build neural network in unity but still learning
 
 ## 🎮 Games I've Developed
 - **PC Games**: Check out my portfolio on [Itch.io](https://awsaf.itch.io/)
