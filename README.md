@@ -13,7 +13,7 @@ I'm a passionate solo game developer with experience in a variety of game develo
 - **XR**: VR
 - **3dModeling**: Blender
 - **BackEnd**: LINQ, .NETCore, SQL, UnityWeb
-- **AI**:build neural network in unity but still learning
+- **AI**: build neural network in unity but still learning
 
 ## 🎮 Games I've Developed
 - **PC Games**: Check out my portfolio on [Itch.io](https://awsaf.itch.io/)
